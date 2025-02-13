@@ -1,0 +1,6 @@
+/home/sai/Projects/itla-2-calculadora/itla-2-calculadora/bin/Debug/itla-2-calculadora.exe
+/home/sai/Projects/itla-2-calculadora/itla-2-calculadora/bin/Debug/itla-2-calculadora.pdb
+/home/sai/Projects/itla-2-calculadora/itla-2-calculadora/obj/Debug/itla-2-calculadora.csproj.AssemblyReference.cache
+/home/sai/Projects/itla-2-calculadora/itla-2-calculadora/obj/Debug/itla-2-calculadora.csproj.CoreCompileInputs.cache
+/home/sai/Projects/itla-2-calculadora/itla-2-calculadora/obj/Debug/itla-2-calculadora.exe
+/home/sai/Projects/itla-2-calculadora/itla-2-calculadora/obj/Debug/itla-2-calculadora.pdb
